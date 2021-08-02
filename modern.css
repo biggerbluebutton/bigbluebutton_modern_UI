@@ -1,0 +1,175 @@
+@import "https://fonts.googleapis.com/css2?family=Quicksand:wght@500;600;700&display=swap";
+/* Using a string */
+@import "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css";
+.icon-bbb-group_chat:before {
+  font-family: "Font Awesome 5 Free";
+  font-weight: 900;
+  content: "\f4ad";
+}
+.icon-bbb-copy:before {
+  font-family: "Font Awesome 5 Free";
+  font-weight: 900;
+  content: "\f249";
+}
+.icon-bbb-desktop, .icon-bbb-desktop_off:before {
+  font-family: "Font Awesome 5 Free";
+  font-weight: 900;
+  content: "\f108";
+}
+
+.icon-bbb-video, .icon-bbb-video_off:before {
+  font-family: "Font Awesome 5 Free";
+  font-weight: 900;
+  content: "\f03d";
+}
+
+.icon-bbb-audio_on, .icon-bbb-audio_off:before {
+  font-family: "Font Awesome 5 Free";
+  font-weight: 900;
+  content: "\f095";
+}
+.icon-bbb-plus:before {
+  font-family: "Font Awesome 5 Free";
+  font-weight: 900;
+  content: "\f067";
+}
+.icon-bbb-send:before {
+  font-family: "Font Awesome 5 Free";
+  font-weight: 900;
+  content: "\f1d8";
+}
+.icon-bbb-send:before {
+  font-family: "Font Awesome 5 Free";
+  font-weight: 900;
+  content: "\f1d8";
+}
+.icon-bbb-unmute:before {
+  font-family: "Font Awesome 5 Free";
+  font-weight: 900;
+  content: "\f3c9";
+}
+.icon-bbb-mute:before {
+  font-family: "Font Awesome 5 Free";
+  font-weight: 900;
+  content: "\f539";
+}
+.icon-bbb-listen:before {
+  font-family: "Font Awesome 5 Free";
+  font-weight: 900;
+  content: "\f025";
+}
+.icon-bbb-settings:before {
+  font-family: "Font Awesome 5 Free";
+  font-weight: 900;
+  content: "\f013";
+}
+.actionsbar--Z1mcyA0 .icon-bbb-hand:before {
+  font-family: "Font Awesome 5 Free";
+  font-weight: 900;
+  content: "\f256";
+}
+
+#newLayout, .presentationContainer--1wqUYG {
+  background-color: black !important;
+}
+body {
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 700;
+  color: #444;
+}
+.smallTitle--2wz4kP {
+  color: var(--color-primary);
+  font-size: 1.2em;
+  text-transform: none;
+  font-weight: 700;
+}
+.userNameMain--2fo2zM span {
+  font-weight: bold !important;
+}
+.userItemContents--C2UQJ {
+  border-bottom: 2px solid;
+  border-color: #ececec;
+}
+.avatar--Z2lyL8K {
+  opacity: 0.6;
+}
+.scrollStyle--Ckr4w {
+  background: initial;
+}
+.title--11IbvM span, .title--11IbvM i {
+  font-weight: 700;
+  font-size: 1.2em;
+}
+.hideBtn--ZOkOfz {
+  background-color: inherit;
+}
+.chat--111wNM {
+  background-color: #f5f6fa;
+}
+.chat--111wNM .input--2wilPX {
+  box-shadow: none;
+  border: none;
+}
+.systemMessage--ZEi8xl {
+  border: none;
+  border-bottom: 1px solid var(--systemMessage-border-color);
+  background-color: #f5f6fa;
+}
+.messageList--2kDQeQ {
+  background: initial;
+}
+.messageList--2kDQeQ .wrapper--1nuR8g {
+  background-color: white !important;
+  padding: 10px;
+  margin-right: 20px;
+  border-radius: 10px;
+}
+.messageList--2kDQeQ .ReactVirtualized__Grid__innerScrollContainer {
+  max-height: 150px;
+}
+.emphasizedMessage--ZhjVgu {
+  font-weight: 500;
+  font-size: 0.95em;
+}
+.sendButton--Z93EzE {
+  margin-left: 0px;
+}
+.sendButton--Z93EzE .circle--Z2c8umk {
+  border-radius: 20%;
+}
+.userList--Z2q1D0p {
+  box-shadow: 1px 2px 5px #e1e1e1;
+}
+.icon-bbb-group_chat:before {
+  font-family: "Font Awesome 5 Free";
+  font-weight: 900;
+  content: "\f4ad";
+}
+.icon-bbb-copy:before {
+  font-family: "Font Awesome 5 Free";
+  font-weight: 900;
+  content: "\f249";
+}
+.dropdownTrigger--Z1Fp5dg, .userName--ZsKYfV {
+  background-color: rgba(39, 73, 241, 0.5)
+}
+/* Track */
+::-webkit-scrollbar-track {
+  background: #f5f6fa !important;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #888;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+:root {
+  --color-primary: #2749f1;
+  --loader-bg: black;
+  --user-list-bg: white;
+  --color-off-white: white;
+}
