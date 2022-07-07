@@ -75,13 +75,16 @@ MIT license
   content: "\f256";
 }
 
-#newLayout, .presentationContainer--1wqUYG {
+#layout, .presentationContainer--1wqUYG {
   background-color: black !important;
 }
 body {
   font-family: 'Quicksand', sans-serif;
   font-weight: 700;
   color: #444;
+}
+.krKMQc {
+  background: initial;
 }
 .smallTitle--2wz4kP {
   color: var(--color-primary);
